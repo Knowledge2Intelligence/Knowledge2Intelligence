@@ -6,7 +6,7 @@ Hi, I'm Immanuel 👋! I'm an Electronics and Communication Engineering student 
 
 🖥 Programming: Python, C/C++, MATLAB
 
-🔌 Hardware: ESP32, FPGA (Altera MAX II), stm32
+🔌 Hardware: ESP32, STM32
 
 📫 Let's Connect!
 
